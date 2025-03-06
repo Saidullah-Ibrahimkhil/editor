@@ -1,2 +1,2 @@
 # editor
-This applicaiton is a simple editor creating and editing plain text document. The project has build in Python programming language using PyQt6 gui liberary of python.
+This application is a simple editor for creating and editing plain text documents. The project was built in Python  using the PyQt6gui library of Python.
